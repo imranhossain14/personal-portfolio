@@ -1,0 +1,178 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+
+h1{
+    font-size: 40px;
+    font-weight:900;
+    
+}
+
+#my-name {
+    color:#EC4C7A
+}
+
+.half-width{
+        width:40%;
+       float:left;
+        padding-left: 2%;
+        margin-left:5%
+      
+}
+.half-width img{
+    width:100%;
+}
+
+.header {
+    
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+
+.biography{
+    
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+} 
+
+.work-area{
+
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+
+}
+
+.experience-area{
+    
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+} 
+
+.client-comment{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+
+section{
+    height:700px;
+    
+}
+
+.link-button {
+
+    text-decoration: none;
+    background-image: linear-gradient(35deg, rgb(250, 101, 124),hotpink);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:whitesmoke;
+    font-weight: 700;
+}
+
+.link-button2 {
+
+    text-decoration: none;
+    background-image: linear-gradient(35deg, rgb(250, 101, 124),hotpink);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:whitesmoke;
+    font-weight: 700;
+}
+
+h2{
+    font-size: 40px;
+}
+
+p{
+    color: dimgray;
+}
+
+.dream-area {
+    
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+   
+}
+
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 6px;
+    height:50%;
+    background-color: white;
+}
+
+
+
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(150deg,orange, darkorange);
+    border-image-slice: 1;
+}
+
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(150deg, pink, hotpink);
+    border-image-slice: 1;
+}
+
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
+}
+
+.onethird-width{
+     width:29%;
+     float:left;
+     margin-left:3%;
+}
+
+.onethird-width img {
+    max-width: 100%;
+}
+
+
+.textalign{
+    text-align: center;
+    
+}
+
+.comment-box {
+    margin: 0 auto;
+    width: 1000px;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    background-image: linear-gradient(150deg, rgb(252, 111, 134), hotpink);
+}
+
+.comment-contact {
+    text-align: center;
+    padding: 15px;
+    
+    
+}
+
+#textcolor {
+    color:white;
+}
+
+
+#textbold{
+    font-weight: 700;
+    color:black;
+}
+
+#text-designation{
+    color:rgb(156, 155, 155);
+   
+}
+
+
+
+
+
+
+
+
+
